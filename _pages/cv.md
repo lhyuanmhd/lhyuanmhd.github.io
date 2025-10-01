@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D student at ETH Zurich (now)
 * MPhil. The University of Hong Kong, 2022
-* B.S. Southern University of Science and Technology, 2012
+* B.S. Southern University of Science and Technology, 2020
 
 Work experience
 ======
