@@ -6,8 +6,8 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-#remote_theme: academicpages/academicpages.github.io
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: academicpages/academicpages.github.io
+
 
 plugins:
   - jekyll-remote-theme
