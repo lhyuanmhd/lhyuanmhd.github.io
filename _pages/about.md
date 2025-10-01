@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Long Huiyuan 👋  
+Hi, I’m Longhui Yuan 👋  
 
-I am a PhD student in Earth and Planetary Sciences at [Your University].  
-My research focuses on [short summary: e.g., magnetohydrodynamics, geodynamo, and planetary interiors].  
-
-I am particularly interested in [specific topics] and I use [methods: numerical simulations, spectral methods, etc.] in my work.  
-
-You can find my [CV](cv) and [publications](publications) on this site.  
+I am a PhD student in Earth and Planetary Sciences at ETH Zürich.
+My research focuses on the planetary dynamo process and orbital dynamics of exoplanets.
